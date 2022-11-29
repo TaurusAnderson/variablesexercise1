@@ -1,0 +1,15 @@
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\bin\Debug\net6.0\Variablesexercise1.exe
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\bin\Debug\net6.0\Variablesexercise1.deps.json
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\bin\Debug\net6.0\Variablesexercise1.runtimeconfig.json
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\bin\Debug\net6.0\Variablesexercise1.dll
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\bin\Debug\net6.0\Variablesexercise1.pdb
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.csproj.AssemblyReference.cache
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.AssemblyInfoInputs.cache
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.AssemblyInfo.cs
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.csproj.CoreCompileInputs.cache
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.dll
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\refint\Variablesexercise1.dll
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.pdb
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\Variablesexercise1.genruntimeconfig.cache
+C:\Users\imtau\OneDrive\Desktop\Repos\Variablesexercise1\Variablesexercise1\obj\Debug\net6.0\ref\Variablesexercise1.dll
